@@ -6,5 +6,7 @@
 
 ## 🔨 Мой стек:
 **HTML5, CSS3, Git, JavaScript, Figma, Webpack, API, Visual Studio Code**
-
+## Контакты
+* email: nastya77esakova@yandex.ru
+* tel: +79055777564
 
