@@ -5,7 +5,7 @@
 - 🎮 В свободное время занимаюсь рисованием, читаю книги, интересуюсь играми.
 
 ## 🔨 Мой стек:
-**HTML5, CSS3, Git, JavaScript, Figma, Webpack, React, Express.js, MongoDB**
+**HTML5, CSS3, Git, JavaScript, Figma, Webpack, React, Node.js, Express.js, MongoDB**
 ## Контакты
 * email: nastya77esakova@yandex.ru
 * tel: +79055777564
