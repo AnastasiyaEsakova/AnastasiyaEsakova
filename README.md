@@ -4,9 +4,9 @@
 - В свободное время занимаюсь рисованием, читаю книги, интересуюсь играми.
 
 ## 🔨 Мой стек:
-**Figma, Adobe Photoshop**
-**HTML5, CSS3, JavaScript, TypeScript, React, Vue**
-**Node, Express, MongoDB**
+- **Figma, Adobe Photoshop**
+- **HTML5, CSS3, JavaScript, TypeScript, React, Vue, Jest**
+- **Node, Express, MongoDB**
 
 ## Контакты
 * email: nastya77esakova@yandex.ru
